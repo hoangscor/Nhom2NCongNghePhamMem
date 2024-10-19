@@ -564,3 +564,4 @@ K:\Workspace\C#\projecj cong nghe phan mem\HairHarmonySalon\bin\Debug\net8.0\run
 K:\Workspace\C#\projecj cong nghe phan mem\HairHarmonySalon\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 K:\Workspace\C#\projecj cong nghe phan mem\HairHarmonySalon\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 K:\Workspace\C#\projecj cong nghe phan mem\HairHarmonySalon\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+K:\Workspace\C#\projecj cong nghe phan mem\HairHarmonySalon\obj\Debug\net8.0\HairHarmonySalon.sourcelink.json
