@@ -13,7 +13,7 @@ namespace HairHarmonySalon.Controllers
             _logger = logger;
         }
 
-        public IActionResult index()
+        public IActionResult Index()
         {
             return View();
         }
@@ -25,15 +25,15 @@ namespace HairHarmonySalon.Controllers
 		{
 			return View();
 		}
-		public IActionResult about()
+		public IActionResult About()
 		{
 			return View();
 		}
-		public IActionResult blog()
+		public IActionResult Blog()
 		{
 			return View();
 		}
-		public IActionResult contact()
+		public IActionResult Contact()
 		{
 			return View();
 		}

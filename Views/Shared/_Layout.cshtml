@@ -64,9 +64,10 @@
 							ViewContext.RouteData.Values["action"].ToString() == "Gallery" ? " active" : "")">
 							<a asp-controller="Home" asp-action="Gallery" class="nav-link">Gallery</a>
 						</li> @* -> Gallery moi *@
+
 					@* <li class="nav-item"><a href="gallery.html" class="nav-link">Gallery</a></li> -> Gallery cu *@
 						<li class="nav-item @(ViewContext.RouteData.Values["controller"].ToString() == "Home" &&
-							ViewContext.RouteData.Values["action"].ToString() == "About" ? " active" : "")">
+							ViewContext.RouteData.Values["action"].ToString() == "About" ? " active" : "sai")">
 							<a asp-controller="Home" asp-action="About" class="nav-link">About</a>
 						</li> @* -> About moi *@
 					@* <li class="nav-item"><a href="about.html" class="nav-link">About</a></li> -> About cu *@
