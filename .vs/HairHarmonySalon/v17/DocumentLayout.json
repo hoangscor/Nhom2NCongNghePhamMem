@@ -58,8 +58,7 @@
               "RelativeToolTip": "Views\\Home\\services.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T12:57:54.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T12:57:54.526Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T12:57:54.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T12:57:54.895Z"
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "Views\\Home\\index.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T12:57:54.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T12:57:54.899Z"
             },
             {
               "$type": "Document",
@@ -97,8 +94,7 @@
               "RelativeToolTip": "Views\\Home\\about.cshtml",
               "ViewState": "AgIAAF8AAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T12:57:54.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T12:57:54.903Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAqwA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T12:57:54.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T12:57:54.913Z"
             },
             {
               "$type": "Document",
@@ -136,8 +131,7 @@
               "RelativeToolTip": "Views\\Home\\contact.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T12:57:54.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T12:57:54.918Z"
             },
             {
               "$type": "Document",
@@ -149,8 +143,7 @@
               "RelativeToolTip": "Views\\Services\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAMwAAAB1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T12:57:54.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T12:57:54.923Z"
             },
             {
               "$type": "Document",
@@ -162,8 +155,7 @@
               "RelativeToolTip": "Controllers\\ServicesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T12:57:54.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T12:57:54.928Z"
             }
           ]
         }
