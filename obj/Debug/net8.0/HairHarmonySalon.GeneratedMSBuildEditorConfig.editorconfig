@@ -17,71 +17,71 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HairHarmonySalon
 build_property.RootNamespace = HairHarmonySalon
-build_property.ProjectDir = K:\Workspace\C#\projecj cong nghe phan mem\HairHarmonySalon\
+build_property.ProjectDir = C:\Users\Ngoc\Nhom2NCongNghePhamMem\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = K:\Workspace\C#\projecj cong nghe phan mem\HairHarmonySalon
+build_property.MSBuildProjectDirectory = C:\Users\Ngoc\Nhom2NCongNghePhamMem
 build_property._RazorSourceGeneratorDebug = 
 
-[K:/Workspace/C\#/projecj cong nghe phan mem/HairHarmonySalon/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Ngoc/Nhom2NCongNghePhamMem/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[K:/Workspace/C\#/projecj cong nghe phan mem/HairHarmonySalon/Views/Home/About.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+[C:/Users/Ngoc/Nhom2NCongNghePhamMem/Views/Home/about.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[K:/Workspace/C\#/projecj cong nghe phan mem/HairHarmonySalon/Views/Home/Blog.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nLmNzaHRtbA==
+[C:/Users/Ngoc/Nhom2NCongNghePhamMem/Views/Home/blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxibG9nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[K:/Workspace/C\#/projecj cong nghe phan mem/HairHarmonySalon/Views/Home/Contact.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+[C:/Users/Ngoc/Nhom2NCongNghePhamMem/Views/Home/contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[K:/Workspace/C\#/projecj cong nghe phan mem/HairHarmonySalon/Views/Home/Gallery.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHYWxsZXJ5LmNzaHRtbA==
+[C:/Users/Ngoc/Nhom2NCongNghePhamMem/Views/Home/gallery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxnYWxsZXJ5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[K:/Workspace/C\#/projecj cong nghe phan mem/HairHarmonySalon/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[C:/Users/Ngoc/Nhom2NCongNghePhamMem/Views/Home/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[K:/Workspace/C\#/projecj cong nghe phan mem/HairHarmonySalon/Views/Home/Privacy.cshtml]
+[C:/Users/Ngoc/Nhom2NCongNghePhamMem/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[K:/Workspace/C\#/projecj cong nghe phan mem/HairHarmonySalon/Views/Home/Services.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlcy5jc2h0bWw=
+[C:/Users/Ngoc/Nhom2NCongNghePhamMem/Views/Home/services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzZXJ2aWNlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[K:/Workspace/C\#/projecj cong nghe phan mem/HairHarmonySalon/Views/Services/Index.cshtml]
+[C:/Users/Ngoc/Nhom2NCongNghePhamMem/Views/Services/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[K:/Workspace/C\#/projecj cong nghe phan mem/HairHarmonySalon/Views/Shared/Error.cshtml]
+[C:/Users/Ngoc/Nhom2NCongNghePhamMem/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[K:/Workspace/C\#/projecj cong nghe phan mem/HairHarmonySalon/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/Ngoc/Nhom2NCongNghePhamMem/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[K:/Workspace/C\#/projecj cong nghe phan mem/HairHarmonySalon/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Ngoc/Nhom2NCongNghePhamMem/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[K:/Workspace/C\#/projecj cong nghe phan mem/HairHarmonySalon/Views/_ViewImports.cshtml]
+[C:/Users/Ngoc/Nhom2NCongNghePhamMem/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[K:/Workspace/C\#/projecj cong nghe phan mem/HairHarmonySalon/Views/_ViewStart.cshtml]
+[C:/Users/Ngoc/Nhom2NCongNghePhamMem/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[K:/Workspace/C\#/projecj cong nghe phan mem/HairHarmonySalon/Views/Shared/_Layout.cshtml]
+[C:/Users/Ngoc/Nhom2NCongNghePhamMem/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-13v9lx611p
