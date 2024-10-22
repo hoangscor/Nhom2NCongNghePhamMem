@@ -8367,19 +8367,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\acer\\.nuget\\packages\\": {}
+    "C:\\Users\\Ngoc\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "K:\\Workspace\\C#\\projecj cong nghe phan mem\\HairHarmonySalon\\HairHarmonySalon.csproj",
+      "projectUniqueName": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\HairHarmonySalon.csproj",
       "projectName": "HairHarmonySalon",
-      "projectPath": "K:\\Workspace\\C#\\projecj cong nghe phan mem\\HairHarmonySalon\\HairHarmonySalon.csproj",
-      "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-      "outputPath": "K:\\Workspace\\C#\\projecj cong nghe phan mem\\HairHarmonySalon\\obj\\",
+      "projectPath": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\HairHarmonySalon.csproj",
+      "packagesPath": "C:\\Users\\Ngoc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ngoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8387,6 +8392,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -8399,6 +8405,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -8457,7 +8468,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
