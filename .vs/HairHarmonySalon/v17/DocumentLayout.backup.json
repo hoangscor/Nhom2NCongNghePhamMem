@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\nhom2ncongnghephammem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\nhom2ncongnghephammem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\nhom2ncongnghephammem\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\nhom2ncongnghephammem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\nhom2ncongnghephammem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\nhom2ncongnghephammem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -74,15 +74,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "index.cshtml",
               "DocumentMoniker": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Home\\index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\index.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Home\\index.cshtml",
-              "RelativeToolTip": "Views\\Home\\index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAAAyAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Home\\index.cshtml*",
+              "RelativeToolTip": "Views\\Home\\index.cshtml*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T12:57:54.899Z"
+              "WhenOpened": "2024-10-21T12:57:54.899Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -92,19 +93,20 @@
               "RelativeDocumentMoniker": "Views\\Home\\about.cshtml",
               "ToolTip": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Home\\about.cshtml",
               "RelativeToolTip": "Views\\Home\\about.cshtml",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T12:57:54.903Z"
+              "WhenOpened": "2024-10-21T12:57:54.903Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAACIAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-21T12:57:54.908Z",
               "EditorCaption": ""
