@@ -13,3 +13,4 @@ K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProject\Harmony.Services\obj
 K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProject\Harmony.Services\obj\Debug\net8.0\refint\Harmony.Services.dll
 K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.pdb
 K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProject\Harmony.Services\obj\Debug\net8.0\ref\Harmony.Services.dll
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.sourcelink.json

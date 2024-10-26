@@ -12,3 +12,4 @@ K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProject\Harmony.Repositories
 K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProject\Harmony.Repositories\bin\Debug\net8.0\Harmony.Repositories.runtimeconfig.json
 K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProject\Harmony.Repositories\obj\Debug\net8.0\Harmony.Repositories.csproj.AssemblyReference.cache
 K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProject\Harmony.Repositories\obj\Debug\net8.0\Harmony.Repositories.genruntimeconfig.cache
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProject\Harmony.Repositories\obj\Debug\net8.0\Harmony.Repositories.sourcelink.json

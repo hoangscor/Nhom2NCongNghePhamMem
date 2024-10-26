@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Harmony.Repositories")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69ecc34daf471557d1ec75d89a54dc28dd470e8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Harmony.Repositories")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Harmony.Repositories")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
