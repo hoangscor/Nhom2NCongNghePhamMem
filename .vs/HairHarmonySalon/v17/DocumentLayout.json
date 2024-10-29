@@ -3,36 +3,47 @@
   "WorkspaceRootPath": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\nhom2ncongnghephammem\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\nhom2ncongnghephammem\\views\\services\\selectservices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:views\\services\\selectservices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\nhom2ncongnghephammem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\nhom2ncongnghephammem\\views\\services\\selectstaff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:views\\services\\selectstaff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\nhom2ncongnghephammem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\nhom2ncongnghephammem\\views\\services\\picktime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:views\\services\\picktime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\nhom2ncongnghephammem\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\nhom2ncongnghephammem\\views\\services\\appointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:views\\services\\appointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\nhom2ncongnghephammem\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\nhom2ncongnghephammem\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\nhom2ncongnghephammem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\nhom2ncongnghephammem\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\nhom2ncongnghephammem\\views\\home\\booknow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:views\\home\\booknow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\nhom2ncongnghephammem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ngoc\\Downloads\\haircare-master\\haircare-master\\services.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\nhom2ncongnghephammem\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\nhom2ncongnghephammem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\nhom2ncongnghephammem\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,108 +53,149 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Home\\index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\index.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Home\\index.cshtml",
-              "RelativeToolTip": "Views\\Home\\index.cshtml",
-              "ViewState": "AgIAALQAAAAAAAAAAAAowMsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "PickTime.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Services\\PickTime.cshtml",
+              "RelativeDocumentMoniker": "Views\\Services\\PickTime.cshtml",
+              "ToolTip": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Services\\PickTime.cshtml",
+              "RelativeToolTip": "Views\\Services\\PickTime.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwCAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T03:29:53.503Z",
+              "WhenOpened": "2024-10-29T16:19:33.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SelectStaff.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Services\\SelectStaff.cshtml",
+              "RelativeDocumentMoniker": "Views\\Services\\SelectStaff.cshtml",
+              "ToolTip": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Services\\SelectStaff.cshtml",
+              "RelativeToolTip": "Views\\Services\\SelectStaff.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T16:18:23.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "blog.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Home\\blog.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\blog.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Home\\blog.cshtml",
-              "RelativeToolTip": "Views\\Home\\blog.cshtml",
-              "ViewState": "AgIAACABAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Title": "SelectServices.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Services\\SelectServices.cshtml",
+              "RelativeDocumentMoniker": "Views\\Services\\SelectServices.cshtml",
+              "ToolTip": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Services\\SelectServices.cshtml",
+              "RelativeToolTip": "Views\\Services\\SelectServices.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T14:01:58.998Z",
+              "WhenOpened": "2024-10-29T16:17:38.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIA7wA8AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T14:01:54.001Z",
+              "DocumentIndex": 3,
+              "Title": "Appointment.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Services\\Appointment.cshtml",
+              "RelativeDocumentMoniker": "Views\\Services\\Appointment.cshtml",
+              "ToolTip": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Services\\Appointment.cshtml",
+              "RelativeToolTip": "Views\\Services\\Appointment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T16:15:57.626Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T12:57:54.895Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "about.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Home\\about.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\about.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Home\\about.cshtml",
-              "RelativeToolTip": "Views\\Home\\about.cshtml",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T12:57:54.903Z",
+              "DocumentIndex": 8,
+              "Title": "services.html",
+              "DocumentMoniker": "C:\\Users\\Ngoc\\Downloads\\haircare-master\\haircare-master\\services.html",
+              "RelativeDocumentMoniker": "..\\Downloads\\haircare-master\\haircare-master\\services.html",
+              "ToolTip": "C:\\Users\\Ngoc\\Downloads\\haircare-master\\haircare-master\\services.html",
+              "RelativeToolTip": "..\\Downloads\\haircare-master\\haircare-master\\services.html",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAD0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-29T16:09:50.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD4AAAADAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Services\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Services\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Services\\Index.cshtml",
+              "RelativeToolTip": "Views\\Services\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMQBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T12:57:54.908Z",
+              "WhenOpened": "2024-10-29T13:15:41.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\css\\style.css",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-29T11:56:46.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Home\\contact.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\contact.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Home\\contact.cshtml",
-              "RelativeToolTip": "Views\\Home\\contact.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "BookNow.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Home\\BookNow.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\BookNow.cshtml",
+              "ToolTip": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Home\\BookNow.cshtml",
+              "RelativeToolTip": "Views\\Home\\BookNow.cshtml",
+              "ViewState": "AgIAAD8EAAAAAAAAAAAAAE4EAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T12:57:54.918Z"
+              "WhenOpened": "2024-10-29T05:05:03.114Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ServicesController.cs",
-              "DocumentMoniker": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Controllers\\ServicesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ServicesController.cs",
-              "ToolTip": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Controllers\\ServicesController.cs",
-              "RelativeToolTip": "Controllers\\ServicesController.cs",
+              "DocumentIndex": 10,
+              "Title": "blog.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Home\\blog.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\blog.cshtml",
+              "ToolTip": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Home\\blog.cshtml",
+              "RelativeToolTip": "Views\\Home\\blog.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T12:57:54.928Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T05:04:55.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Home\\index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\index.cshtml",
+              "ToolTip": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Home\\index.cshtml",
+              "RelativeToolTip": "Views\\Home\\index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T04:58:15.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ngoc\\Nhom2NCongNghePhamMem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T04:57:58.186Z",
               "EditorCaption": ""
             }
           ]
