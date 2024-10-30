@@ -28,7 +28,7 @@
 				<div class="col-md-6 py-md-5 pb-5 wrap-about pb-md-5 ftco-animate">
 					<div class="heading-section mb-4 mt-md-5">
 						<span class="subheading">About Us</span>
-						<h2 class="mb-4" id="myMore">Welcome To Hoangdz A Hair Salon</h2>
+						<h2 class="mb-4" id="myMore">Welcome To Hair Salon by HoangLe & ChauNgoc</h2>
 					</div>
 					<div class="pb-md-5">
 						<p>But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.</p>
@@ -96,22 +96,37 @@
 	<section class="ftco-section ftco-no-pt ftco-no-pb">
 		<div class="container-fluid px-0">
 			<div class="row no-gutters">
-				<div class="col-md-6 text-center d-flex align-items-stretch">
-					<div class="services-wrap d-flex align-items-center img" style="background-image: url(../images/formen.jpg);">
+				<div class="col-md-12 text-center d-flex align-items-stretch">
+					<div class="services-wrap d-flex align-items-center justify-content-center img" style="background-image: url(../images/formen.jpg); height: 500px; width: 100%;">
 						<div class="text">
 							<h3>For Men</h3>
-							<p><a href="#" class="btn-custom" onclick="togglePricePanel()">See pricing <span class="ion-ios-arrow-round-forward"></span></a></p>
+							<p>
+								<a asp-controller="Services" asp-action="Index" asp-fragment="pricing" class="btn-custom">
+									See pricing <span class="ion-ios-arrow-round-forward"></span>
+								</a>
+							</p>
 						</div>
 					</div>
 				</div>
-				<div class="col-md-6 text-center d-flex align-items-stretch">
+			</div>
+		</div>
+<style>
+			.services-wrap {
+				background-size: cover; /* Đảm bảo hình ảnh phủ kín */
+				background-position: center; /* Căn giữa hình ảnh */
+				height: 500px; /* Đặt chiều cao */
+			}
+
+</style>
+
+				@* <div class="col-md-6 text-center d-flex align-items-stretch">
 					<div class="services-wrap d-flex align-items-center img" style="background-image: url(../images/forwomen.jpg);">
 						<div class="text">
 							<h3>For Women</h3>
 							<p><a href="#" class="btn-custom">See pricing <span class="ion-ios-arrow-round-forward"></span></a></p>
 						</div>
 					</div>
-				</div>
+				</div> *@
 			</div>
 		</div>
 	</section>
