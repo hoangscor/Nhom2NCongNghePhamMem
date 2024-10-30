@@ -1,25 +1,8 @@
 # Thư mục và tệp tạm của Visual Studio
 .vs/
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
 
 # Thư mục bin và obj
-bin/
 obj/
 
-# Các tệp dựng tự động
-*.dll
-*.exe
-*.pdb
-*.cache
-*.log
-*.dat
-*.db
 
-# Thư mục publish
-/publish/
 
-# Thư mục temporary
-/tmp/
