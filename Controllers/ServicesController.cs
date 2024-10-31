@@ -18,10 +18,7 @@ namespace HairHarmonySalon.Controllers
         {
             return View();
         }
-        public IActionResult AddServices()
-        {
-            return View();
-        }
+        
         public IActionResult SelectStylist()
         {
             return View();

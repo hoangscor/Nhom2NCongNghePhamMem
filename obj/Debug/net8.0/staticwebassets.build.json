@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "u/RozgOif2qvqtY+q7FkFL0kdCyrQkQRMxRrzFzULvM=",
+  "Hash": "rbV/idbOYCRMXgraZYwMDjKG9Bo1HsQTmarOpZA2cXw=",
   "Source": "HairHarmonySalon",
   "BasePath": "_content/HairHarmonySalon",
   "Mode": "Default",
@@ -2734,6 +2734,25 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap-datepicker.js"
     },
     {
+      "Identity": "C:\\Users\\Ngoc\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\wwwroot\\js\\cf2-cli-6f7a4385426419fdff579138e6839c4c.js",
+      "SourceId": "HairHarmonySalon",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ngoc\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\wwwroot\\",
+      "BasePath": "_content/HairHarmonySalon",
+      "RelativePath": "js/cf2-cli-6f7a4385426419fdff579138e6839c4c.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\cf2-cli-6f7a4385426419fdff579138e6839c4c.js"
+    },
+    {
       "Identity": "C:\\Users\\Ngoc\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\wwwroot\\js\\google-map.js",
       "SourceId": "HairHarmonySalon",
       "SourceType": "Discovered",
@@ -2998,6 +3017,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\owl.carousel.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Ngoc\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\wwwroot\\js\\pendo.js",
+      "SourceId": "HairHarmonySalon",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ngoc\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\wwwroot\\",
+      "BasePath": "_content/HairHarmonySalon",
+      "RelativePath": "js/pendo.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\pendo.js"
     },
     {
       "Identity": "C:\\Users\\Ngoc\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\wwwroot\\js\\popper.min.js",

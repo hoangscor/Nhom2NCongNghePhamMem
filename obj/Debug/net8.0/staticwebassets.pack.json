@@ -321,6 +321,10 @@
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
+      "Id": "C:\\Users\\Ngoc\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\wwwroot\\js\\cf2-cli-6f7a4385426419fdff579138e6839c4c.js",
+      "PackagePath": "staticwebassets\\js\\cf2-cli-6f7a4385426419fdff579138e6839c4c.js"
+    },
+    {
       "Id": "C:\\Users\\Ngoc\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\wwwroot\\js\\google-map.js",
       "PackagePath": "staticwebassets\\js\\google-map.js"
     },
@@ -375,6 +379,10 @@
     {
       "Id": "C:\\Users\\Ngoc\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\wwwroot\\js\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ngoc\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\wwwroot\\js\\pendo.js",
+      "PackagePath": "staticwebassets\\js\\pendo.js"
     },
     {
       "Id": "C:\\Users\\Ngoc\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\wwwroot\\js\\popper.min.js",

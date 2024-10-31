@@ -33,7 +33,11 @@ namespace HairHarmonySalon.Controllers
 		{
 			return View();
 		}
-		public IActionResult Contact()
+        public IActionResult Blog_Single()
+        {
+            return View();
+        }
+        public IActionResult Contact()
 		{
 			return View();
 		}
@@ -42,11 +46,7 @@ namespace HairHarmonySalon.Controllers
             return View();
         }
 
-        public IActionResult BookNow()
-        {
-
-            return View();
-        }
+        
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
