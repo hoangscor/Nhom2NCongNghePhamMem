@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\HairHarmonySalon.csproj": {}
+    "C:\\Users\\Ngoc\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\HairHarmonySalon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\HairHarmonySalon.csproj": {
+    "C:\\Users\\Ngoc\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\HairHarmonySalon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\HairHarmonySalon.csproj",
+        "projectUniqueName": "C:\\Users\\Ngoc\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\HairHarmonySalon.csproj",
         "projectName": "HairHarmonySalon",
-        "projectPath": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\HairHarmonySalon.csproj",
+        "projectPath": "C:\\Users\\Ngoc\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\HairHarmonySalon.csproj",
         "packagesPath": "C:\\Users\\Ngoc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\obj\\",
+        "outputPath": "C:\\Users\\Ngoc\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\Harmony.Services\\Harmony.Services.csproj": {
-                "projectPath": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\Harmony.Services\\Harmony.Services.csproj"
+              "C:\\Users\\Ngoc\\HairSalonProjecttest\\HairSalonProject\\Harmony.Services\\Harmony.Services.csproj": {
+                "projectPath": "C:\\Users\\Ngoc\\HairSalonProjecttest\\HairSalonProject\\Harmony.Services\\Harmony.Services.csproj"
               }
             }
           }
@@ -112,14 +112,14 @@
         }
       }
     },
-    "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\Harmony.Repositories\\Harmony.Repositories.csproj": {
+    "C:\\Users\\Ngoc\\HairSalonProjecttest\\HairSalonProject\\Harmony.Repositories\\Harmony.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\Harmony.Repositories\\Harmony.Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\Ngoc\\HairSalonProjecttest\\HairSalonProject\\Harmony.Repositories\\Harmony.Repositories.csproj",
         "projectName": "Harmony.Repositories",
-        "projectPath": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\Harmony.Repositories\\Harmony.Repositories.csproj",
+        "projectPath": "C:\\Users\\Ngoc\\HairSalonProjecttest\\HairSalonProject\\Harmony.Repositories\\Harmony.Repositories.csproj",
         "packagesPath": "C:\\Users\\Ngoc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\Harmony.Repositories\\obj\\",
+        "outputPath": "C:\\Users\\Ngoc\\HairSalonProjecttest\\HairSalonProject\\Harmony.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -193,14 +193,14 @@
         }
       }
     },
-    "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\Harmony.Services\\Harmony.Services.csproj": {
+    "C:\\Users\\Ngoc\\HairSalonProjecttest\\HairSalonProject\\Harmony.Services\\Harmony.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\Harmony.Services\\Harmony.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Ngoc\\HairSalonProjecttest\\HairSalonProject\\Harmony.Services\\Harmony.Services.csproj",
         "projectName": "Harmony.Services",
-        "projectPath": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\Harmony.Services\\Harmony.Services.csproj",
+        "projectPath": "C:\\Users\\Ngoc\\HairSalonProjecttest\\HairSalonProject\\Harmony.Services\\Harmony.Services.csproj",
         "packagesPath": "C:\\Users\\Ngoc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\Harmony.Services\\obj\\",
+        "outputPath": "C:\\Users\\Ngoc\\HairSalonProjecttest\\HairSalonProject\\Harmony.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -222,8 +222,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\Harmony.Repositories\\Harmony.Repositories.csproj": {
-                "projectPath": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\Harmony.Repositories\\Harmony.Repositories.csproj"
+              "C:\\Users\\Ngoc\\HairSalonProjecttest\\HairSalonProject\\Harmony.Repositories\\Harmony.Repositories.csproj": {
+                "projectPath": "C:\\Users\\Ngoc\\HairSalonProjecttest\\HairSalonProject\\Harmony.Repositories\\Harmony.Repositories.csproj"
               }
             }
           }

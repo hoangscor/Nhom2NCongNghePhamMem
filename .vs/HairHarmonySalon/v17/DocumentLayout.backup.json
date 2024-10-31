@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\downloads\\hairsalonprojecttest\\hairsalonproject\\hairharmonysalon\\views\\services\\addservices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:views\\services\\addservices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\downloads\\hairsalonprojecttest\\hairsalonproject\\hairharmonysalon\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\downloads\\hairsalonprojecttest\\hairsalonproject\\hairharmonysalon\\views\\services\\selectstylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:views\\services\\selectstylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\downloads\\hairsalonprojecttest\\hairsalonproject\\hairharmonysalon\\views\\services\\appointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:views\\services\\appointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\downloads\\hairsalonprojecttest\\hairsalonproject\\hairharmonysalon\\views\\services\\picktime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:views\\services\\picktime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\downloads\\hairsalonprojecttest\\hairsalonproject\\hairharmonysalon\\views\\services\\appointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:views\\services\\appointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\downloads\\hairsalonprojecttest\\hairsalonproject\\hairharmonysalon\\views\\services\\addservices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:views\\services\\addservices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\downloads\\hairsalonprojecttest\\hairsalonproject\\hairharmonysalon\\views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|solutionrelative:views\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5728612-3912-4D71-B061-A6D950EDA402}|HairHarmonySalon.csproj|c:\\users\\ngoc\\downloads\\hairsalonprojecttest\\hairsalonproject\\hairharmonysalon\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AddServices.cshtml",
               "DocumentMoniker": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\Views\\Services\\AddServices.cshtml",
               "RelativeDocumentMoniker": "Views\\Services\\AddServices.cshtml",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "PickTime.cshtml",
               "DocumentMoniker": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\Views\\Services\\PickTime.cshtml",
               "RelativeDocumentMoniker": "Views\\Services\\PickTime.cshtml",
@@ -64,20 +64,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "SelectStylist.cshtml",
               "DocumentMoniker": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\Views\\Services\\SelectStylist.cshtml",
               "RelativeDocumentMoniker": "Views\\Services\\SelectStylist.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\Views\\Services\\SelectStylist.cshtml",
-              "RelativeToolTip": "Views\\Services\\SelectStylist.cshtml",
-              "ViewState": "AgIAALoAAAAAAAAAAAAAAKMAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\Views\\Services\\SelectStylist.cshtml*",
+              "RelativeToolTip": "Views\\Services\\SelectStylist.cshtml*",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAiwKMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-30T11:42:49.163Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\Views\\Services\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Services\\Index.cshtml",
@@ -85,18 +85,17 @@
               "RelativeToolTip": "Views\\Services\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T11:07:08.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T11:07:08.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Appointment.cshtml",
               "DocumentMoniker": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\Views\\Services\\Appointment.cshtml",
               "RelativeDocumentMoniker": "Views\\Services\\Appointment.cshtml",
-              "ToolTip": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\Views\\Services\\Appointment.cshtml",
-              "RelativeToolTip": "Views\\Services\\Appointment.cshtml",
-              "ViewState": "AgIAAAwBAAAAAAAAAAAAACIBAAAHAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\Views\\Services\\Appointment.cshtml*",
+              "RelativeToolTip": "Views\\Services\\Appointment.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-30T11:07:03.122Z",
               "EditorCaption": ""
@@ -111,8 +110,7 @@
               "RelativeToolTip": "Controllers\\ServicesController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T11:03:10.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T11:03:10.108Z"
             }
           ]
         }
