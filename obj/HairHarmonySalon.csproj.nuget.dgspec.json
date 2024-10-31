@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "K:\\Workspace\\C#\\projecj cong nghe phan mem\\HairSalonProject\\HairHarmonySalon\\HairHarmonySalon.csproj": {}
+    "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\HairHarmonySalon.csproj": {}
   },
   "projects": {
-    "K:\\Workspace\\C#\\projecj cong nghe phan mem\\HairSalonProject\\HairHarmonySalon\\HairHarmonySalon.csproj": {
+    "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\HairHarmonySalon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\Workspace\\C#\\projecj cong nghe phan mem\\HairSalonProject\\HairHarmonySalon\\HairHarmonySalon.csproj",
+        "projectUniqueName": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\HairHarmonySalon.csproj",
         "projectName": "HairHarmonySalon",
-        "projectPath": "K:\\Workspace\\C#\\projecj cong nghe phan mem\\HairSalonProject\\HairHarmonySalon\\HairHarmonySalon.csproj",
-        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "K:\\Workspace\\C#\\projecj cong nghe phan mem\\HairSalonProject\\HairHarmonySalon\\obj\\",
+        "projectPath": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\HairHarmonySalon.csproj",
+        "packagesPath": "C:\\Users\\Ngoc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ngoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "K:\\Workspace\\C#\\projecj cong nghe phan mem\\HairSalonProject\\Harmony.Services\\Harmony.Services.csproj": {
-                "projectPath": "K:\\Workspace\\C#\\projecj cong nghe phan mem\\HairSalonProject\\Harmony.Services\\Harmony.Services.csproj"
+              "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\Harmony.Services\\Harmony.Services.csproj": {
+                "projectPath": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\Harmony.Services\\Harmony.Services.csproj"
               }
             }
           }
@@ -38,6 +43,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -98,21 +108,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "K:\\Workspace\\C#\\projecj cong nghe phan mem\\HairSalonProject\\Harmony.Repositories\\Harmony.Repositories.csproj": {
+    "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\Harmony.Repositories\\Harmony.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\Workspace\\C#\\projecj cong nghe phan mem\\HairSalonProject\\Harmony.Repositories\\Harmony.Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\Harmony.Repositories\\Harmony.Repositories.csproj",
         "projectName": "Harmony.Repositories",
-        "projectPath": "K:\\Workspace\\C#\\projecj cong nghe phan mem\\HairSalonProject\\Harmony.Repositories\\Harmony.Repositories.csproj",
-        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "K:\\Workspace\\C#\\projecj cong nghe phan mem\\HairSalonProject\\Harmony.Repositories\\obj\\",
+        "projectPath": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\Harmony.Repositories\\Harmony.Repositories.csproj",
+        "packagesPath": "C:\\Users\\Ngoc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\Harmony.Repositories\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ngoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -120,6 +134,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -132,6 +147,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -169,21 +189,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "K:\\Workspace\\C#\\projecj cong nghe phan mem\\HairSalonProject\\Harmony.Services\\Harmony.Services.csproj": {
+    "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\Harmony.Services\\Harmony.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\Workspace\\C#\\projecj cong nghe phan mem\\HairSalonProject\\Harmony.Services\\Harmony.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\Harmony.Services\\Harmony.Services.csproj",
         "projectName": "Harmony.Services",
-        "projectPath": "K:\\Workspace\\C#\\projecj cong nghe phan mem\\HairSalonProject\\Harmony.Services\\Harmony.Services.csproj",
-        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "K:\\Workspace\\C#\\projecj cong nghe phan mem\\HairSalonProject\\Harmony.Services\\obj\\",
+        "projectPath": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\Harmony.Services\\Harmony.Services.csproj",
+        "packagesPath": "C:\\Users\\Ngoc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\Harmony.Services\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ngoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -191,14 +215,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "K:\\Workspace\\C#\\projecj cong nghe phan mem\\HairSalonProject\\Harmony.Repositories\\Harmony.Repositories.csproj": {
-                "projectPath": "K:\\Workspace\\C#\\projecj cong nghe phan mem\\HairSalonProject\\Harmony.Repositories\\Harmony.Repositories.csproj"
+              "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\Harmony.Repositories\\Harmony.Repositories.csproj": {
+                "projectPath": "C:\\Users\\Ngoc\\Downloads\\HairSalonProjecttest\\HairSalonProject\\Harmony.Repositories\\Harmony.Repositories.csproj"
               }
             }
           }
@@ -207,6 +232,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -228,7 +258,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics;
+using HairHarmonySalon.Models;
 
 namespace HairHarmonySalon.Controllers
 {
@@ -8,5 +10,22 @@ namespace HairHarmonySalon.Controllers
 		{
 			return View();
 		}
-	}
+        public IActionResult Appointment()
+        {
+            return View();
+        }
+        public IActionResult PickTime()
+        {
+            return View();
+        }
+        public IActionResult AddServices()
+        {
+            return View();
+        }
+        public IActionResult SelectStylist()
+        {
+            return View();
+        }
+       
+    }
 }
