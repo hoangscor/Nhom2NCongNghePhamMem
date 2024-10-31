@@ -8,7 +8,7 @@ using Harmony.Repositories.Entities;
 
 namespace Harmony.Services.Interfaces
 {
-	internal interface IUserService
+	public interface IUserService
 	{
 		Task<List<User>> Users();
 	}
