@@ -6,153 +6,104 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
     <style>
-        body {
-            color: #000;
-            overflow-x: hidden;
-            height: 100%;
-            background-color: #C5CAE9 !important;
-            background-repeat: no-repeat;
-            padding: 0px !important
-        }
-
-        .container-fluid {
-            padding-top: 120px !important;
-            padding-bottom: 120px !important
-        }
-
-        .card {
-            box-shadow: 0px 4px 8px 0px #7986CB
-        }
-
-        input {
-            padding: 10px 20px !important;
-            border: 1px solid #000 !important;
-            border-radius: 10px;
+        /* style.css */
+        * {
             box-sizing: border-box;
-            background-color: #616161 !important;
-            color: #fff !important;
-            font-size: 16px;
-            letter-spacing: 1px;
-            width: 180px
+            margin: 0;
+            padding: 0;
         }
 
-            input:focus {
-                -moz-box-shadow: none !important;
-                -webkit-box-shadow: none !important;
-                box-shadow: none !important;
-                border: 1px solid #512DA8;
-                outline-width: 0
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+
+        .container {
+            max-width: 600px;
+            width: 100%;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin: 20px auto;
+            flex-grow: 1;
+        }
+
+        h2 {
+            text-align: center;
+            color: #333;
+        }
+
+        .staff-card {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            margin-bottom: 10px;
+        }
+
+        .avatar {
+            font-size: 24px;
+            background-color: #eee;
+            width: 50px;
+            height: 50px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            color: #666;
+        }
+
+        .info {
+            flex: 1;
+            margin-left: 15px;
+        }
+
+            .info h3 {
+                font-size: 16px;
+                margin: 0;
+                color: #333;
             }
 
-        ::placeholder {
-            color: #fff;
-            opacity: 1
-        }
+            .info p {
+                margin: 5px 0 0;
+                color: #666;
+                font-size: 14px;
+            }
 
-        :-ms-input-placeholder {
-            color: #fff
-        }
-
-        ::-ms-input-placeholder {
-            color: #fff
-        }
-
-        button:focus {
-            -moz-box-shadow: none !important;
-            -webkit-box-shadow: none !important;
-            box-shadow: none !important;
-            outline-width: 0
-        }
-
-        .datepicker {
-            background-color: #000 !important;
-            color: #fff !important;
+        .select-button {
+            background-color: #555;
+            color: white;
+            padding: 8px 16px;
             border: none;
-            padding: 10px !important
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
         }
 
-        .datepicker-dropdown:after {
-            border-bottom: 6px solid #000
-        }
-
-        thead tr:nth-child(3) th {
-            color: #fff !important;
-            font-weight: bold;
-            padding-top: 20px;
-            padding-bottom: 10px
-        }
-
-        .dow,
-        .old-day,
-        .day,
-        .new-day {
-            width: 40px !important;
-            height: 40px !important;
-            border-radius: 0px !important
-        }
-
-            .old-day:hover,
-            .day:hover,
-            .new-day:hover,
-            .month:hover,
-            .year:hover,
-            .decade:hover,
-            .century:hover {
-                border-radius: 6px !important;
-                background-color: #eee;
-                color: #000
+            .select-button:hover {
+                background-color: #333;
             }
 
-        .active {
-            border-radius: 6px !important;
-            background-image: linear-gradient(#90CAF9, #64B5F6) !important;
-            color: #000 !important
-        }
-
-        .disabled {
-            color: #616161 !important
-        }
-
-        .prev,
-        .next,
-        .datepicker-switch {
-            border-radius: 0 !important;
-            padding: 20px 10px !important;
-            text-transform: uppercase;
-            font-size: 20px;
-            color: #fff !important;
-            opacity: 0.8
-        }
-
-            .prev:hover,
-            .next:hover,
-            .datepicker-switch:hover {
-                background-color: inherit !important;
-                opacity: 1
-            }
-
-        .cell {
-            border: 1px solid #BDBDBD;
-            margin: 2px;
-            cursor: pointer
-        }
-
-            .cell:hover {
-                border: 1px solid #3D5AFE
-            }
-
-            .cell.select {
-                background-color: #3D5AFE;
-                color: #fff
-            }
-
-        .fa-calendar {
+        footer {
+            background-color: #333;
             color: #fff;
-            font-size: 30px;
-            padding-top: 8px;
-            padding-left: 5px;
-            cursor: pointer
-        }</style>
+            text-align: center;
+            padding: 10px;
+        }
+</style>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.9.0/css/bootstrap-datepicker.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.2/css/bootstrap-responsive.css">
@@ -160,91 +111,52 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.9.0/js/bootstrap-datepicker.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.js"></script>
 </head>
-<body id="custom-colors" class="ember-application location location-service location-service-selectStaff">
- 
+<body>
+    <div class="container">
+        <h2>Select Staff for Cut Consultation</h2>
 
-    <div class="main-container">
-        <h1 class="main-heading">Select staff for Color Consultation</h1>
-        <a class="back-link" href="/services">← Back</a>
-
-        <div class="row">
-            <div class="employee-card">
-                <div class="employee-picture">
-                    <i class="fas fa-user"></i>
-                </div>
-                <div class="info-card-top">
-                    <a href="/services/picktime"  class="btn">Select</a>
-                    <span class="info-card-name">Any available staff</span>
-                </div>
-                <div class="info-card-description">Maximize number of available appointment times.</div>
+        <div class="staff-card">
+            <div class="avatar">&#128101;</div>
+            <div class="info">
+                <h3>any available staff</h3>
+                <p>Maximize number of available appointment times.</p>
             </div>
+            <a href="/services/picktime" class="select-button">Select</a>
+        </div>
 
-            <div class="employee-card">
-                <div class="employee-picture">
-                    <i class="fas fa-female"></i>
-                </div>
-                <div class="info-card-top">
-                    <a href="/services/picktime"  class="btn">Select</a>
-                    <span class="info-card-name">Any female staff</span>
-                </div>
-                <div class="info-card-description">Show me appointments with any female.</div>
+        <div class="staff-card">
+            <div class="avatar">&#128113;</div>
+            <div class="info">
+                <h3>any female staff</h3>
+                <p>Show me appointments with any female.</p>
             </div>
+            <a href="/services/picktime" class="select-button">Select</a>
+        </div>
 
-            <div class="employee-card">
-                <div class="employee-picture">
-                    <i class="fas fa-male"></i>
-                </div>
-                <div class="info-card-top">
-                    <a href="/services/picktime"  class="btn">Select</a>
-                    <span class="info-card-name">Any male staff</span>
-                </div>
-                <div class="info-card-description">Show me appointments with any male.</div>
+        <div class="staff-card">
+            <div class="avatar">&#128104;</div>
+            <div class="info">
+                <h3>any male staff</h3>
+                <p>Show me appointments with any male.</p>
             </div>
+            <a href="/services/picktime" class="select-button">Select</a>
+        </div>
 
-            <div class="employee-card">
-                <div class="employee-picture">
-                    <span class="employee-picture-first-initial">E</span>
-                </div>
-                <div class="info-card-top">
-                    <a href="/services/picktime"  class="btn">Select</a>
-                    <span class="info-card-name">Erica Stietenroth</span>
-                </div>
+        <div class="staff-card">
+            <div class="avatar">E</div>
+            <div class="info">
+                <h3>Erica Stietenroth</h3>
             </div>
+            <a href="/services/picktime" class="select-button">Select</a>
+        </div>
 
-            <div class="employee-card">
-                <div class="employee-picture">
-                    <span class="employee-picture-first-initial">M</span>
-                </div>
-                <div class="info-card-top">
-                    <a href="/services/picktime"  class="btn">Select</a>
-                    <span class="info-card-name">Mike Anthony</span>
-                </div>
+        <div class="staff-card">
+            <div class="avatar">M</div>
+            <div class="info">
+                <h3>Mike Anthony</h3>
             </div>
-
-            <div class="employee-card">
-                <div class="employee-picture">
-                    <span class="employee-picture-first-initial">K</span>
-                </div>
-                <div class="info-card-top">
-                    <a href="/services/picktime"  class="btn">Select</a>
-                    <span class="info-card-name">Katarina Cafolla</span>
-                </div>
-            </div>
-
-            <div class="employee-card">
-                <div class="employee-picture">
-                    <span class="employee-picture-first-initial">s</span>
-                </div>
-                <div class="info-card-top">
-                    <a href="/services/picktime"  class="btn">Select</a>
-                    <span class="info-card-name">Sydney Aguilar</span>
-                </div>
-            </div>
+            <a href="/services/picktime" class="select-button">Select</a>
         </div>
     </div>
-
-    <footer>
-        <p>Powered by <a href="#">Mindbody</a></p>
-    </footer>
 </body>
 </html>
